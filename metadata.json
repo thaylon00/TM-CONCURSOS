@@ -1,0 +1,6 @@
+{
+  "name": "TM CONCURSOS",
+  "description": "Gere apostilas completas e personalizadas para concursos públicos, com conteúdo explicativo detalhado e 5 questões de fixação com gabarito comentado por assunto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
